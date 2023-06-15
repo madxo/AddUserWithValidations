@@ -7,4 +7,4 @@ If there is an issue then error modal will open
 To Run this project
 
 npm install 
-the npm start
+npm start
